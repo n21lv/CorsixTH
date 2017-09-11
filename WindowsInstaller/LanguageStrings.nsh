@@ -253,7 +253,7 @@ LangString options_subtitle   ${LANG_RUSSIAN} "Укажите расположе
 LangString save_in_appdata    ${LANG_RUSSIAN} "Сохранять игровые данные и настройки в %APPDATA% (рекомендовано)"
 LangString remove_saves       ${LANG_RUSSIAN} "Оставить сохраненные игры?"
 LangString overwrite_install  ${LANG_RUSSIAN} "Кажется, у Вас уже есть установленная версия CorsixTH. Любые изменения могут привести к потере данных. Продолжить?"
-LangString no_vc_redist       ${LANG_RUSSIAN} "CorsixTH requires the '$(vc_redist_string)' to run, but it could not be found on this computer. Would you like to download it now?"
+LangString no_vc_redist       ${LANG_RUSSIAN} "Для работы CorsixTH необходим дистрибутив '$(vc_redist_string)', но он не был найден на вашем компьютере. Скачать его сейчас?"
 LangString vc_redist_string   ${LANG_RUSSIAN} "Visual Studio 2015 Redistributable"
 LangString vc_redist_url      ${LANG_RUSSIAN} "https://www.microsoft.com/en-us/download/details.aspx?id=48145"
 LangString vc_redist_version  ${LANG_RUSSIAN} "14.0"
